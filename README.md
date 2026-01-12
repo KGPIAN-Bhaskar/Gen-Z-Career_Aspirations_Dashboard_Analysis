@@ -25,10 +25,12 @@ This project analyzes Gen-Z career aspirations using survey data. The objective 
 ---
 
 ## 🛠 Tools & Technologies
-- SQL (MySQL)
+- SQL  Queries (MySQL)
 - Microsoft Excel
 - Power BI
-- CSV Dataset
+- CSV Dataset Cleaning & Standardizing
+- ETL & EDA
+- Statistics 
 
 ---
 
@@ -106,6 +108,7 @@ This project analyzes Gen-Z career aspirations using survey data. The objective 
 
 ### Dashboard Using Microsoft Excel
 ![Excel Analysis](Dashboard2.png)
+
 
 ### Dashboard Using Microsof Power BI
 ![Excel Analysis](Dashboard3.png)
