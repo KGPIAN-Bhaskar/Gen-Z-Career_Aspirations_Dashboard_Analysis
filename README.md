@@ -102,13 +102,13 @@ This project analyzes Gen-Z career aspirations using survey data. The objective 
 
 ---
 
-## 📸 Project Screenshots
+## 📸 Project Insights
 
-### Power BI Dashboard
-![Power BI Dashboard](Dashboard1.png)
+### Excel Dashboard
+![Excel Analysis](Dashboard1.png)
 
 ### Excel Analysis
-![Excel Analysis](screenshots/excel_analysis.png)
+![Ex](screenshots/excel_analysis.png)
 
 ### SQL Queries
 ![SQL Queries](screenshots/sql_queries.png)
