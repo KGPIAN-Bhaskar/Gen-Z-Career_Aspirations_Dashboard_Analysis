@@ -104,7 +104,7 @@ This project analyzes Gen-Z career aspirations using survey data. The objective 
 
 ---
 
-## 📸 Project Insights
+## 📸 Project Dashboard_Insights
 
 ### Dashboard Using Microsoft Excel
 ![Excel Analysis](Dashboard2.png)
@@ -122,5 +122,5 @@ This project provides data-driven insights into Gen-Z career aspirations. Organi
 ---
 
 ## 👤 Author
-**Bhaskar Mandal,Data Analyst,IIT KGP
+**Bhaskar Mandal,Data Analyst,IIT KGP**
 
