@@ -122,5 +122,9 @@ This project provides data-driven insights into Gen-Z career aspirations. Organi
 ---
 
 ## 👤 Author
-**Bhaskar Mandal,Data Analyst,IIT KGP**
+**Bhaskar Mandal,Data Analyst,M.Tech,IIT KGP**
+
+LinkedIn- https://www.linkedin.com/in/bhaskar-mandal
+
+webpage- https://gamma.app/docs/Bhaskar-Mandal-IIT-KGP-0ctr1uaacscyu81?mode=doc
 
